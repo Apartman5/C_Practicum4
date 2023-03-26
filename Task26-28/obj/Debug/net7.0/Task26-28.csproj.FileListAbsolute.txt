@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\C# practicum\Practicum4\Task26-28\obj\Debug\net7.0\Task26-28.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\C# practicum\Practicum4\Task26-28\obj\Debug\net7.0\Task26-28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\C# practicum\Practicum4\Task26-28\obj\Debug\net7.0\Task26-28.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\C# practicum\Practicum4\Task26-28\obj\Debug\net7.0\Task26-28.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\C# practicum\Practicum4\Task26-28\obj\Debug\net7.0\Task26-28.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\C# practicum\Practicum4\Task26-28\bin\Debug\net7.0\Task26-28.exe
+C:\Users\Пользователь\Desktop\C# practicum\Practicum4\Task26-28\bin\Debug\net7.0\Task26-28.deps.json
+C:\Users\Пользователь\Desktop\C# practicum\Practicum4\Task26-28\bin\Debug\net7.0\Task26-28.runtimeconfig.json
+C:\Users\Пользователь\Desktop\C# practicum\Practicum4\Task26-28\bin\Debug\net7.0\Task26-28.dll
+C:\Users\Пользователь\Desktop\C# practicum\Practicum4\Task26-28\bin\Debug\net7.0\Task26-28.pdb
+C:\Users\Пользователь\Desktop\C# practicum\Practicum4\Task26-28\obj\Debug\net7.0\Task26-28.dll
+C:\Users\Пользователь\Desktop\C# practicum\Practicum4\Task26-28\obj\Debug\net7.0\refint\Task26-28.dll
+C:\Users\Пользователь\Desktop\C# practicum\Practicum4\Task26-28\obj\Debug\net7.0\Task26-28.pdb
+C:\Users\Пользователь\Desktop\C# practicum\Practicum4\Task26-28\obj\Debug\net7.0\Task26-28.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\C# practicum\Practicum4\Task26-28\obj\Debug\net7.0\ref\Task26-28.dll
